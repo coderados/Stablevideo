@@ -1,0 +1,6 @@
+{
+  "name": "SVD Studio - Stable Video Diffusion",
+  "description": "Generate high-quality video animations from images using Stable Video Diffusion with customizable motion bucket, frame rate, camera trajectories, and instant download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
